@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-size: 18px;
+}
+
+h2 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 20px 0;
+}
+
+p {
+  font-size: 18px;
+}
+
+.result-container {
+  background-image: linear-gradient(0deg, hsl(241, 81%, 54%), hsl(252, 100%, 67%));
+  text-align: center;
+  color: white;
+  border-bottom-left-radius: 12%;
+  border-bottom-right-radius: 12%;
+}
+
+.result-display {
+  background: linear-gradient(0deg, hsla(241, 72%, 46%, 0), hsla(256, 72%, 46%, 1));
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.result-number {
+  font-size: 60px;
+  font-weight: 800;
+  margin: 0;
+  height: auto;
+}
+
+.result-total {
+  margin: 0;
+  height: auto;
+}
+
+.result-comment {
+  margin: 15px 0 10px 0;
+}
+
+.result-commentary {
+  font-size: 14px;
+  width: 60%;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+
