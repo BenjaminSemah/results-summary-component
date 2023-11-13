@@ -16,6 +16,7 @@ h2 {
 
 p {
   font-size: 18px;
+  margin: 0;
 }
 
 .result-container {
@@ -58,3 +59,42 @@ p {
   padding-bottom: 40px;
 }
 
+.summary-list {
+  padding-inline-start: 0;
+}
+
+.summary-item {
+  list-style-type: none;
+  background: green;
+  margin: 15px 25px;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.summary-list li:nth-of-type(1) {
+  background-color: hsl(0, 100%, 67%, 10%);
+}
+
+.summary-list li:nth-of-type(2) {
+  background-color: hsl(39, 100%, 56%, 10%);
+}
+
+.summary-list li:nth-of-type(3) {
+  background-color: hsl(166, 100%, 37%, 10%);
+}
+
+.summary-list li:nth-of-type(4) {
+  background-color: hsl(234, 85%, 45%, 10%);
+}
+
+.icon-and-decription {
+  display: flex;
+  gap: 10px;
+}
+
+.score span {
+  margin-left: 5px;
+  opacity: 0.5;
+}
