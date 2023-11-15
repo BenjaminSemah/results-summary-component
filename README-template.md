@@ -94,6 +94,14 @@ Users should be able to:
 
 ## My process
 
+I built this project with a mobile-first approach. 
+
+I first worked on the mobile version of the results summary component. 
+
+And then I used media queries to make the component responsive for desktop size screens.
+
+**Deployment:** I deployed the project using [GitHub Pages](https://pages.github.com/).
+
 ### Built with
 
 <!-- Bagdes -->
@@ -135,6 +143,7 @@ To get a local copy up and running follow these simple example steps.
 - Clippings: [@BenjaminSemah](https://www.clippings.me/benjaminsemah)
 
 ## Acknowledgments
+Shoutout to [Frontend Mentor](https://www.frontendmentor.io) for providing real these practical challenges.
 
 ### Show your support
 
