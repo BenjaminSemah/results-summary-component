@@ -67,8 +67,8 @@ This is a solution to the [Result Summary Component challenge on Frontend Mentor
 <h2 align="center">Links</h2>
 
 
-- Solution URL: [Time tracking dashboard (Next.js + TypeScript + Tailwind CSS + ESLint) | Frontend Mentor](https://www.frontendmentor.io/solutions)
-- Live Site URL: [https://time-tracking-dashboard-hdez.vercel.app/](#)
+- Solution URL: [Results Summary Components Solution](https://www.frontendmentor.io/solutions)
+- Live Site URL: [https://result-summary-component.com](https://benjaminsemah.github.io/results-summary-component/)
 
 <br>
 
