@@ -66,8 +66,7 @@ This is a solution to the [Result Summary Component challenge on Frontend Mentor
 
 <h2>Links</h2>
 
-
-- Solution URL: [Results Summary Components Solution](https://www.frontendmentor.io/solutions)
+- Solution URL: [Results Summary Components Solution](https://www.frontendmentor.io/solutions/result-summary-component-Yk6Ic5eKsh)
 - Live Site URL: [https://result-summary-component.com](https://benjaminsemah.github.io/results-summary-component/)
 
 <br>
