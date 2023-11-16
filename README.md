@@ -6,14 +6,14 @@
 
   <h2 align="center">Results Summary Component Solution</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/solutions/time-tracking-dashboard-nextjs-typescript-tailwind-css-eslint-ER5VDDiJ2i">     
+    <a href="https://www.frontendmentor.io/solutions/result-summary-component-Yk6Ic5eKsh">     
       <strong>Frontend Mentor Challenge</strong>
     </a>
     <br />
     <br />
     <!-- Navigation Links -->
     <a 
-      href="#"
+      href="https://benjaminsemah.github.io/results-summary-component/"
       target="_blank"
     >
       View Demo
